@@ -11,5 +11,9 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 
 
 ## Introduction and General Advice
+| Courses                                                       | Status |
+| :------------------------------------------------------------ | :----: |
+| [TBD](https://www.)         |        |
+| [TBD](https://www.)       |        |
 
 ## Writing Web Pages
