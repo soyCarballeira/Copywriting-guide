@@ -1,4 +1,4 @@
-# Copywriting-guide
+# Copywriting Guide
 > Curated content to become a copywriter.
 
 Inspired by [P1xt guides for programming](https://github.com/P1xt/p1xt-guides), I'm beginning my journey to compile the best free material to become a copywriter.
