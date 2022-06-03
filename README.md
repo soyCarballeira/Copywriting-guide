@@ -11,13 +11,52 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 
 
 ## Introduction and General Advice
+What is copywriting. WHat's it like? What tools do you need?
+
 | Courses                                                       | Status |
 | :------------------------------------------------------------ | :----: |
 | [TBD](https://www.)         |        |
 | [TBD](https://www.)       |        |
+
+## Psychologic Principles and Sales
+How to persuade. How and why copywriting works
+
+## Investigation
+WHy is it important. Different methods.
+
+## Formulas
+Learn the rules and understand why they worl. Then break them.
 
 ## Writing Web Pages
 | Courses                                                       | Status |
 | :------------------------------------------------------------ | :----: |
 | [TBD](https://www.)         |        |
 | [TBD](https://www.)       |        |
+
+## Content Writing and SEO
+Strategy and long term thinking.
+
+## Email Marketing
+
+## Writing for Social Media
+
+## Writing for a Launch
+Types of launch and structures
+
+## Writing Ads
+
+## Writing Leaflets and Brochures
+
+## UX Writing and Microcopy
+
+## Setting Up and Finding Clients
+
+
+## Clients Management
+
+
+
+
+
+
+
