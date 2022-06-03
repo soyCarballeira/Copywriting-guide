@@ -54,7 +54,10 @@ Types of launch and structures
 
 ## Clients Management
 
-
+| Content                                                       | Type   | Status |
+| :------------------------------------------------------------ | :----: | :----: |
+| [An Easy, Fast, Personal CRM for Making and Maintaining Friendships]([https://www.](https://www.nateliason.com/blog/personal-crm)) | Blog Post |        |
+| [TBD](https://www.)       |        |       |
 
 
 
