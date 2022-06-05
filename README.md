@@ -13,30 +13,41 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 ## Introduction and General Advice
 What is copywriting. WHat's it like? What tools do you need?
 
-| Resource                                                      | Type   | Status |
-| :------------------------------------------------------------ | :----: |:----:  |
-| [TBD](https://www.)                                           |        |        |
-| [TBD](https://www.)                                           |        |        |
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 ## Psychologic Principles and Sales
 How to persuade. How and why copywriting works
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 ## Investigation
 WHy is it important. Different methods.
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 ## Formulas
 Learn the rules and understand why they worl. Then break them.
 
 ## Writing Web Pages
-| Courses                                                       | Type    |  Status  |
-| :------------------------------------------------------------ | :----:  |:----:   |
-| [TBD](https://www.)                                           |         |         |
-| [TBD](https://www.)                                           |         |         |
-| **Practice**                                                  | **Type**|**Status** |
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 ## Content Writing and SEO
 Strategy and long term thinking.
-| Content                                                                                                            | Type      | Status |
+| **Resource**                                                                                                       | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------- | :-------: | :----: |
 | [How to Become a Professional Blogger](https://www.awai.com/make-money-blogging/how-to-become-a-blogger/) | Blog Post |        |
 | [TBD](https://www.)                                                                                                |           |        |
@@ -60,12 +71,17 @@ Types of launch and structures
 
 ## Clients Management
 
-| Content                                                                                                            | Type      | Status |
+| **Resource**                                                                                                       | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------- | :-------: | :----: |
 | [An Easy, Fast, Personal CRM for Making and Maintaining Friendships](https://www.nateliason.com/blog/personal-crm) | Blog Post |        |
 | [TBD](https://www.)                                                                                                |           |        |
 
 ## Miscelanea
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 
 
