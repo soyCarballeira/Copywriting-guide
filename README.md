@@ -59,6 +59,8 @@ Types of launch and structures
 | [An Easy, Fast, Personal CRM for Making and Maintaining Friendships](https://www.nateliason.com/blog/personal-crm) | Blog Post |        |
 | [TBD](https://www.)                                                                                                |           |        |
 
+## Miscelanea
+
 
 
 
