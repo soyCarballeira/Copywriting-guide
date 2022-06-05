@@ -17,6 +17,7 @@ What is copywriting. WHat's it like? What tools do you need?
 | :------------------------------------------------------------------------------------------------------------------------------ | :--------:| :------:   |
 | [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                                                  | Video     |  ✔️        |
 | [How to Build a Lucrative Freelance Writing Career](https://www.writeyourwaytofreedom.co/vsl)                                   | Video     |  ✔️        |
+| [The Fundamentals of Writing to Sell](https://www.youtube.com/watch?v=mjozaTBlgoQ)                                              | Video     |            |
 | **Practice**                                                                                                                    | **Type**  | **Status** |
 | Set up a database for resources                                                                                                 | Task      |  ✔️         |
 | Set up a database for contacts                                                                                                  | Task      |  ✔️        |
