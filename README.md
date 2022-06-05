@@ -17,10 +17,10 @@ What is copywriting. WHat's it like? What tools do you need?
 | :------------------------------------------------------------------------------------------------- | :--------:| :------:   |
 | [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                     | Video     |  ✔️        |
 | [How to Build a Lucrative Freelance Writing Career](https://www.writeyourwaytofreedom.co/vsl)      | Video     |            |
-| **Practice**                                                  | **Type** | **Status** |
-| Set up a database for resources                               | Task     |            |
-| Set up a database for contacts                                | Task     |            |
-| TBD                                                           | Task     |            |
+| **Practice**                                                                                       | **Type**  | **Status** |
+| Set up a database for resources                                                                    | Task      |            |
+| Set up a database for contacts                                                                     | Task      |            |
+| [Earn Your First $200 as a Copywriter – In an Afternoon](https://drive.google.com/file/d/18RJItSAMN_NJ2oNnL3cQhiQDe4oTr4iS/view)| Challenge     |            |
 
 ## Psychology Principles and Sales
 How to persuade. How and why copywriting works
