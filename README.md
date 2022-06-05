@@ -13,10 +13,10 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 ## Introduction and General Advice
 What is copywriting. WHat's it like? What tools do you need?
 
-| Courses                                                       | Status |
-| :------------------------------------------------------------ | :----: |
-| [TBD](https://www.)         |        |
-| [TBD](https://www.)       |        |
+| Resource                                                      | Type   | Status |
+| :------------------------------------------------------------ | :----: |:----:  |
+| [TBD](https://www.)                                           |        |        |
+| [TBD](https://www.)                                           |        |        |
 
 ## Psychologic Principles and Sales
 How to persuade. How and why copywriting works
@@ -28,10 +28,11 @@ WHy is it important. Different methods.
 Learn the rules and understand why they worl. Then break them.
 
 ## Writing Web Pages
-| Courses                                                       | Status |
-| :------------------------------------------------------------ | :----: |
-| [TBD](https://www.)         |        |
-| [TBD](https://www.)       |        |
+| Courses                                                       | Type    |  Status  |
+| :------------------------------------------------------------ | :----:  |:----:   |
+| [TBD](https://www.)                                           |         |         |
+| [TBD](https://www.)                                           |         |         |
+| **Practice**                                                  | **Type**|**Status** |
 
 ## Content Writing and SEO
 Strategy and long term thinking.
