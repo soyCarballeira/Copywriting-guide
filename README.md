@@ -35,6 +35,11 @@ Learn the rules and understand why they worl. Then break them.
 
 ## Content Writing and SEO
 Strategy and long term thinking.
+| Content                                                                                                            | Type      | Status |
+| :----------------------------------------------------------------------------------------------------------------- | :-------: | :----: |
+| [How to Become a Professional Blogger]([https://www.nateliason.com/blog/personal-crm](https://www.awai.com/make-money-blogging/how-to-become-a-blogger/)) | Blog Post |        |
+| [TBD](https://www.)                                                                                                |           |        |
+
 
 ## Email Marketing
 
