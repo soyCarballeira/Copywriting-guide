@@ -1,5 +1,5 @@
 # Copywriting Guide
-> Curated content to become a copywriter.
+> Curated content to become a copywriter🖋
 
 Inspired by [P1xt guides for programming](https://github.com/P1xt/p1xt-guides), and after paying ~€800 for a copywriting course that was barely more than a series of blog posts, I asked for a refund and began my journey to compile the best free material to become a copywriter.
 Note that, at this point, I'm doing this for myself, so I'll include material both in Spanish and English.
@@ -15,11 +15,14 @@ What is copywriting. WHat's it like? What tools do you need?
 
 | **Resource**                                                  | **Type** | **Status** |
 | :------------------------------------------------------------ | :-------:| :------:   |
-| [TBD](https://www.)                                           |          |            |
+| [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                                           |          |            |
 | [TBD](https://www.)                                           |          |            |
 | **Practice**                                                  | **Type** | **Status** |
+| Set up a database for resources                               | Task     |            |
+| Set up a database for contacts                                | Task     |            |
+| TBD                                                           | Task     |            |
 
-## Psychologic Principles and Sales
+## Psychology Principles and Sales
 How to persuade. How and why copywriting works
 | **Resource**                                                  | **Type** | **Status** |
 | :------------------------------------------------------------ | :-------:| :------:   |
@@ -39,11 +42,11 @@ WHy is it important. Different methods.
 Learn the rules and understand why they worl. Then break them.
 
 ## Writing Web Pages
-| **Resource**                                                  | **Type** | **Status** |
-| :------------------------------------------------------------ | :-------:| :------:   |
-| [TBD](https://www.)                                           |          |            |
-| [TBD](https://www.)                                           |          |            |
-| **Practice**                                                  | **Type** | **Status** |
+| **Resource**                                                                                                                   | **Type** | **Status** |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post|            |
+| [How to Create the Ultimate Lead Capture Page: 11 Tips for 2020](https://unbounce.com/landing-pages/how-to-create-the-ultimate-lead-capture-page/)| Blog Post         |            |
+| **Practice**                                                                                                                   | **Type** | **Status** |
 
 ## Content Writing and SEO
 Strategy and long term thinking.
@@ -54,6 +57,11 @@ Strategy and long term thinking.
 
 
 ## Email Marketing
+| **Resource**                                                                                                                   | **Type** | **Status** |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [How to Use Autoresponders to Accelerate Your Growth](https://neilpatel.com/blog/autoresponders-to-accelerate-growth/)         | Blog Post|            |
+| [Email Marketing Best Practices to Grow Your Business](https://www.youtube.com/watch?v=ysXoM6Y_Ax8)                            | Video    |            |
+| **Practice**                                                                                                                   | **Type** | **Status** |
 
 ## Writing for Social Media
 
@@ -61,8 +69,18 @@ Strategy and long term thinking.
 Types of launch and structures
 
 ## Writing Ads
+| **Resource**                                                                                                                   | **Type** | **Status** |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [6 Types of Visual Content You Need to Use in Your Marketing Campaigns](https://neilpatel.com/blog/visual-content-you-need-to-use-in-your-marketing-campaign/)         | Blog Post|            |
+| []()                            |     |            |
+| **Practice**                                                                                                                   | **Type** | **Status** |
 
 ## Writing Leaflets and Brochures
+| **Resource**                                                                                                                   | **Type** | **Status** |
+| :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [How to Write a Brochure](https://www.susangreenecopywriter.com/articles/write_brochure.html)                                  | Blog Post|            |
+|                             |     |            |
+| **Practice**                                                                                                                   | **Type** | **Status** |
 
 ## UX Writing and Microcopy
 
