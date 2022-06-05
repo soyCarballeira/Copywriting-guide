@@ -13,10 +13,10 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 ## Introduction and General Advice
 What is copywriting. WHat's it like? What tools do you need?
 
-| **Resource**                                                  | **Type** | **Status** |
-| :------------------------------------------------------------ | :-------:| :------:   |
-| [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                                           |          |            |
-| [TBD](https://www.)                                           |          |            |
+| **Resource**                                                                                       | **Type**  | **Status** |
+| :------------------------------------------------------------------------------------------------- | :--------:| :------:   |
+| [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                     | Video     |  ✔️        |
+| [How to Build a Lucrative Freelance Writing Career](https://www.writeyourwaytofreedom.co/vsl)      | Video     |            |
 | **Practice**                                                  | **Type** | **Status** |
 | Set up a database for resources                               | Task     |            |
 | Set up a database for contacts                                | Task     |            |
@@ -83,8 +83,18 @@ Types of launch and structures
 | **Practice**                                                                                                                   | **Type** | **Status** |
 
 ## UX Writing and Microcopy
+| **Resource**                                                  | **Type** | **Status** |
+| :------------------------------------------------------------ | :-------:| :------:   |
+| [TBD](https://www.)                                           |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 ## Setting Up and Finding Clients
+| **Resource**                                                                         | **Type** | **Status** |
+| :----------------------------------------------------------------------------------- | :-------:| :------:   |
+| [Is A Website Necessary For Business?](https://www.youtube.com/watch?v=Qzhu0Zw1Yxg)  | Video    |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                  | **Type** | **Status** |
 
 
 ## Clients Management
