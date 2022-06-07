@@ -41,7 +41,8 @@ WHy is it important. Different methods.
 | **Practice**                                                  | **Type** | **Status** |
 
 ## Formulas
-Learn the rules and understand why they worl. Then break them.
+Learn the rules and understand why they work. Then break them.
+Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, THe 4C's
 
 ## Writing Web Pages
 | **Resource**                                                                                                                   | **Type** | **Status** |
