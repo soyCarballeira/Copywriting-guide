@@ -63,6 +63,7 @@ Strategy and long term thinking.
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [How to Use Autoresponders to Accelerate Your Growth](https://neilpatel.com/blog/autoresponders-to-accelerate-growth/)         | Blog Post|            |
+| [HOW TO WRITE DIRECT MAIL COPY THAT SELLS](https://www.themailshark.com/resources/guides/how-to-write-direct-mail-copy/)       | Blog Post|            |
 | [Email Marketing Best Practices to Grow Your Business](https://www.youtube.com/watch?v=ysXoM6Y_Ax8)                            | Video    |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 
