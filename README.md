@@ -40,6 +40,14 @@ WHy is it important. Different methods.
 | [TBD](https://www.)                                           |          |            |
 | **Practice**                                                  | **Type** | **Status** |
 
+## Sales Funnels
+| **Resource**                                                                                                    | **Type** | **Status** |
+| :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [Everything You Need to Know About Sales Funnels](https://www.youtube.com/watch?v=nzfO3tWbtoI)                  |          |            |
+| [TBD](https://www.)                                           |          |            |
+| **Practice**                                                                                                    | **Type** | **Status** |
+
+
 ## Formulas
 Learn the rules and understand why they work. Then break them.
 Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, THe 4C's
