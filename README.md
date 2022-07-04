@@ -19,7 +19,7 @@ What is copywriting. WHat's it like? What tools do you need?
 | [How to Build a Lucrative Freelance Writing Career](https://www.writeyourwaytofreedom.co/vsl)                                   | Video     |  ✔️        |
 | [The Fundamentals of Writing to Sell](https://www.youtube.com/watch?v=mjozaTBlgoQ)                                              | Video     |            |
 | **Practice**                                                                                                                    | **Type**  | **Status** |
-| Set up a database for resources                                                                                                 | Task      |  ✔️         |
+| Set up a database for resources                                                                                                 | Task      |  ✔️        |
 | Set up a database for contacts                                                                                                  | Task      |  ✔️        |
 | [Earn Your First $200 as a Copywriter – In an Afternoon](https://drive.google.com/file/d/18RJItSAMN_NJ2oNnL3cQhiQDe4oTr4iS/view)| Challenge |            |
 | Define a SMART Goal                                                                                                             | Task      |            |
@@ -43,8 +43,8 @@ WHy is it important. Different methods.
 ## Sales Funnels
 | **Resource**                                                                                                    | **Type** | **Status** |
 | :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
-| [Everything You Need to Know About Sales Funnels](https://www.youtube.com/watch?v=nzfO3tWbtoI)                  |          |            |
-| [TBD](https://www.)                                           |          |            |
+| [Everything You Need to Know About Sales Funnels](https://www.youtube.com/watch?v=nzfO3tWbtoI)                  | Video    |   ✔️       |
+| [3 Fitness Marketing Funnels for Your Personal Trainer Website](https://www.mypersonaltrainerwebsite.com/blog/3-fitness-marketing-funnels-for-your-personal-trainer-website)                                                                                                          | Blog     |   ✔️       |
 | **Practice**                                                                                                    | **Type** | **Status** |
 
 
