@@ -21,7 +21,7 @@ What is copywriting. WHat's it like? What tools do you need?
 | **Practice**                                                                                                                    | **Type**  | **Status** |
 | Set up a database for resources                                                                                                 | Task      |  ✔️        |
 | Set up a database for contacts                                                                                                  | Task      |  ✔️        |
-| [Earn Your First $200 as a Copywriter – In an Afternoon](https://drive.google.com/file/d/18RJItSAMN_NJ2oNnL3cQhiQDe4oTr4iS/view)| Challenge |            |
+| Set up a Swipe Folder                                                                                                           | Task      |  ✔️        |
 | Define a SMART Goal                                                                                                             | Task      |            |
 
 ## Psychology Principles and Sales
@@ -74,6 +74,9 @@ Strategy and long term thinking.
 | [HOW TO WRITE DIRECT MAIL COPY THAT SELLS](https://www.themailshark.com/resources/guides/how-to-write-direct-mail-copy/)       | Blog Post|            |
 | [Email Marketing Best Practices to Grow Your Business](https://www.youtube.com/watch?v=ysXoM6Y_Ax8)                            | Video    |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
+| **BONUS (Paid)**                                                                                                               | **Type** | **Status** |
+| [Email Launch Secrets](https://www.emaillaunchsecrets.com/) ($7)                                                               | Book     |            |
+
 
 ## Writing for Social Media
 
