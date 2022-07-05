@@ -145,7 +145,7 @@ Types of launch and structures
 | [TBD](https://www.)                                           |          |            |
 | [TBD](https://www.)                                           |          |            |
 | **Practice**                                                  | **Type** | **Status** |
-
+| Improve the description of an Airbnb location                 | Portfolio|            |
 
 
 
