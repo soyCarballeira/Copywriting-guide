@@ -142,7 +142,7 @@ Types of launch and structures
 ## Miscelanea
 | **Resource**                                                  | **Type** | **Status** |
 | :------------------------------------------------------------ | :-------:| :------:   |
-| [TBD](https://www.)                                           |          |            |
+| [How to Write a Good White Paper for ICO: Tips and Examples](https://hackernoon.com/how-to-write-a-good-white-paper-for-ico-tips-and-examples-42d71c3fa4fe)                                          |          |            |
 | [TBD](https://www.)                                           |          |            |
 | **Practice**                                                  | **Type** | **Status** |
 | Improve the description of an Airbnb location                 | Portfolio|            |
