@@ -72,13 +72,15 @@ Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, T
 | [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post|            |
 | [How to Create the Ultimate Lead Capture Page: 11 Tips for 2020](https://unbounce.com/landing-pages/how-to-create-the-ultimate-lead-capture-page/)| Blog Post         |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
+| Create 3 spec pieces                                                                                                           | Portfolio|            |
+
 
 ## Content Writing and SEO
 Strategy and long term thinking.
-| **Resource**                                                                                                       | **Type** | **Status** |
-| :----------------------------------------------------------------------------------------------------------------- | :-------: | :----: |
-| [How to Become a Professional Blogger](https://www.awai.com/make-money-blogging/how-to-become-a-blogger/) | Blog Post |        |
-| [TBD](https://www.)                                                                                                |           |        |
+| **Resource**                                                                                                       | **Type**  | **Status** |
+| :----------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| [How to Become a Professional Blogger](https://www.awai.com/make-money-blogging/how-to-become-a-blogger/)          | Blog Post |            |
+| [Learning SEO – A Roadmap with Free Guides & Tools ](https://learningseo.io/)                                      | Website   |            |
 
 
 ## Email Marketing
@@ -88,6 +90,7 @@ Strategy and long term thinking.
 | [HOW TO WRITE DIRECT MAIL COPY THAT SELLS](https://www.themailshark.com/resources/guides/how-to-write-direct-mail-copy/)       | Blog Post|            |
 | [Email Marketing Best Practices to Grow Your Business](https://www.youtube.com/watch?v=ysXoM6Y_Ax8)                            | Video    |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
+| Create 3 spec pieces                                                                                                           | Portfolio|            |
 | **BONUS (Paid)**                                                                                                               | **Type** | **Status** |
 | [Email Launch Secrets](https://www.emaillaunchsecrets.com/) ($7)                                                               | Book     |            |
 
@@ -103,6 +106,7 @@ Types of launch and structures
 | [6 Types of Visual Content You Need to Use in Your Marketing Campaigns](https://neilpatel.com/blog/visual-content-you-need-to-use-in-your-marketing-campaign/)         | Blog Post|            |
 | []()                            |     |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
+| Create 3 spec pieces                                                                                                           | Portfolio|            |
 
 ## Writing Leaflets and Brochures
 | **Resource**                                                                                                                   | **Type** | **Status** |
@@ -110,6 +114,7 @@ Types of launch and structures
 | [How to Write a Brochure](https://www.susangreenecopywriter.com/articles/write_brochure.html)                                  | Blog Post|            |
 |                             |     |            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
+| Create 3 spec pieces                                                                                                           | Portfolio|            |
 
 ## UX Writing and Microcopy
 | **Resource**                                                  | **Type** | **Status** |
@@ -119,11 +124,12 @@ Types of launch and structures
 | **Practice**                                                  | **Type** | **Status** |
 
 ## Setting Up and Finding Clients
-| **Resource**                                                                         | **Type** | **Status** |
-| :----------------------------------------------------------------------------------- | :-------:| :------:   |
-| [Is A Website Necessary For Business?](https://www.youtube.com/watch?v=Qzhu0Zw1Yxg)  | Video    |            |
+| **Resource**                                                                          | **Type** | **Status** |
+| :-----------------------------------------------------------------------------------  | :-------:| :------:   |
+| [Is A Website Necessary For Business?](https://www.youtube.co m/watch?v=Qzhu0Zw1Yxg)  | Video    |            |
 | [TBD](https://www.)                                           |          |            |
-| **Practice**                                                  | **Type** | **Status** |
+| **Practice**                                                                          | **Type** | **Status** |
+| Create an Upwork Profile                                                              |     |            |
 
 
 ## Clients Management
