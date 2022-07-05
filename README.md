@@ -9,7 +9,7 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 - [Introduction and General Advice](#Introduction-and-General-Advice)
 - [Writing Web Pages](#Writing-Web-Pages)
 - [Psychology Principles and Sales](#Psychology-Principles-and-Sales)
-- Investigation
+- [Investigation](#Investigation)
 - Sales Funnels
 - Formulas
 - Writing Web Pages
@@ -104,7 +104,7 @@ Types of launch and structures
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [6 Types of Visual Content You Need to Use in Your Marketing Campaigns](https://neilpatel.com/blog/visual-content-you-need-to-use-in-your-marketing-campaign/)         | Blog Post|            |
-| []()                            |     |            |
+| [Facebook Ads Templates](https://adespresso.com/wp-content/uploads/2019/07/Facebook_Ad_Templates.pdf)                          | Blueprint|            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 
