@@ -8,7 +8,21 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 
 - [Introduction and General Advice](#Introduction-and-General-Advice)
 - [Writing Web Pages](#Writing-Web-Pages)
-
+- [Psychology Principles and Sales](#Psychology-Principles-and-Sales)
+- Investigation
+- Sales Funnels
+- Formulas
+- Writing Web Pages
+- Content Writing and SEO
+- Email Marketing
+- Writing for Social Media
+- Writing for a Launch
+- Writing Ads
+- Writing Leaflets and Brochures
+- UX Writing and Microcopy
+- Setting Up and Finding Clients
+- Clients Management
+- Miscelanea
 
 ## Introduction and General Advice
 What is copywriting. WHat's it like? What tools do you need?
