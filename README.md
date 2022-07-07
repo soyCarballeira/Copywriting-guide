@@ -10,10 +10,10 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 - [Writing Web Pages](#Writing-Web-Pages)
 - [Psychology Principles and Sales](#Psychology-Principles-and-Sales)
 - [Investigation](#Investigation)
-- Sales Funnels
-- Formulas
-- Writing Web Pages
-- Content Writing and SEO
+- [Sales Funnels](#Sales-Funnels)
+- [Formulas](#Formulas)
+- [Writing Web Pages](#Writing-Web-Pages)
+- [Content Writing and SEO](#Content-Writing-and-SEO)
 - Email Marketing
 - Writing for Social Media
 - Writing for a Launch
@@ -105,6 +105,7 @@ Types of launch and structures
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [6 Types of Visual Content You Need to Use in Your Marketing Campaigns](https://neilpatel.com/blog/visual-content-you-need-to-use-in-your-marketing-campaign/)         | Blog Post|            |
 | [Facebook Ads Templates](https://adespresso.com/wp-content/uploads/2019/07/Facebook_Ad_Templates.pdf)                          | Blueprint|            |
+| [34 Killer PPC Ad Templates with Crazy High CTRs](https://www.wordstream.com/blog/ws/2015/08/03/ppc-ad-templates)              | Blog Post|            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 
