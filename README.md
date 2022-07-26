@@ -40,11 +40,11 @@ What is copywriting. WHat's it like? What tools do you need?
 
 ## Psychology Principles and Sales
 How to persuade. How and why copywriting works
-| **Resource**                                                  | **Type** | **Status** |
-| :------------------------------------------------------------ | :-------:| :------:   |
-| [TBD](https://www.)                                           |          |            |
-| [TBD](https://www.)                                           |          |            |
-| **Practice**                                                  | **Type** | **Status** |
+| **Resource**                                                                                                                 | **Type** | **Status** |
+| :--------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [Scientific Advertising](https://www.scientificadvertising.com/ScientificAdvertising.pdf)                                    | Book     | ⌛         |
+| [TBD](https://www.)                                                                                                          |          |            |
+| **Practice**                                                                                                                 | **Type** | **Status** |
 
 ## Investigation
 WHy is it important. Different methods.
