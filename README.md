@@ -149,7 +149,8 @@ Types of launch and structures
 | **Practice**                                                                                                                | **Type** | **Status** |
 | Improve the description of an Airbnb location                                                                               | Portfolio |            |
 | [15 Important Copywriting Tools You Must Have](https://www.zenithcopy.com/15-important-tools-copywriter-must-have/)         | Blog Post |           |   
-
+| [The Best Writing Tools For Becoming a Freelance Writer](https://www.locationrebel.com/writing-tools/)                      | Blog Post |           |
+ 
 
 
 
