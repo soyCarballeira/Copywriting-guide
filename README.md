@@ -32,6 +32,7 @@ What is copywriting. WHat's it like? What tools do you need?
 | [Day In The Life of a Copywriter](https://www.youtube.com/watch?v=Pez6aJDTi30)                                                  | Video     |  ✔️        |
 | [How to Build a Lucrative Freelance Writing Career](https://www.writeyourwaytofreedom.co/vsl)                                   | Video     |  ✔️        |
 | [The Fundamentals of Writing to Sell](https://www.youtube.com/watch?v=mjozaTBlgoQ)                                              | Video     |            |
+| [Becoming a Well-Paid Writer: How to Create Your Personal Roadmap](https://www.awai.com/inside-awai/personal-roadmap-to-well-paid-careers-in-writing/) | Blog Post |            |
 | **Practice**                                                                                                                    | **Type**  | **Status** |
 | Set up a database for resources                                                                                                 | Task      |  ✔️        |
 | Set up a database for contacts                                                                                                  | Task      |  ✔️        |
