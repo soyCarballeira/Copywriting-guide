@@ -106,6 +106,7 @@ Types of launch and structures
 | [6 Types of Visual Content You Need to Use in Your Marketing Campaigns](https://neilpatel.com/blog/visual-content-you-need-to-use-in-your-marketing-campaign/)         | Blog Post|            |
 | [Facebook Ads Templates](https://adespresso.com/wp-content/uploads/2019/07/Facebook_Ad_Templates.pdf)                          | Blueprint|            |
 | [34 Killer PPC Ad Templates with Crazy High CTRs](https://www.wordstream.com/blog/ws/2015/08/03/ppc-ad-templates)              | Blog Post|            |
+| [I tried writing Facebook ads. Even I didn’t expect what I found.](https://copyhackers.com/2016/06/writing-facebook-ads/)      | Blog Post|            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 
