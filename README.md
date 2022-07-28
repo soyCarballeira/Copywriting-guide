@@ -128,7 +128,7 @@ Types of launch and structures
 ## Setting Up and Finding Clients
 | **Resource**                                                                          | **Type** | **Status** |
 | :-----------------------------------------------------------------------------------  | :-------:| :------:   |
-| [Is A Website Necessary For Business?](https://www.youtube.co m/watch?v=Qzhu0Zw1Yxg)  | Video    |            |
+| [Is A Website Necessary For Business?](https://www.youtube.com/watch?v=Qzhu0Zw1Yxg)  | Video    |            |
 | [TBD](https://www.)                                           |          |            |
 | **Practice**                                                                          | **Type** | **Status** |
 | Create an Upwork Profile                                                              |     |            |
@@ -142,12 +142,13 @@ Types of launch and structures
 | [TBD](https://www.)                                                                                                |           |        |
 
 ## Miscelanea
-| **Resource**                                                  | **Type** | **Status** |
-| :------------------------------------------------------------ | :-------:| :------:   |
+| **Resource**                                                                                                                | **Type** | **Status** |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [How to Write a Good White Paper for ICO: Tips and Examples](https://hackernoon.com/how-to-write-a-good-white-paper-for-ico-tips-and-examples-42d71c3fa4fe)                                          |          |            |
-| [TBD](https://www.)                                           |          |            |
-| **Practice**                                                  | **Type** | **Status** |
-| Improve the description of an Airbnb location                 | Portfolio|            |
+| [TBD](https://www.)                                                                                                         |          |            |
+| **Practice**                                                                                                                | **Type** | **Status** |
+| Improve the description of an Airbnb location                                                                               | Portfolio |            |
+| [15 Important Copywriting Tools You Must Have](https://www.zenithcopy.com/15-important-tools-copywriter-must-have/)         | Blog Post |           |   
 
 
 
