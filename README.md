@@ -146,6 +146,7 @@ Types of launch and structures
 | **Resource**                                                                                                                | **Type** | **Status** |
 | :-------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [How to Write a Good White Paper for ICO: Tips and Examples](https://hackernoon.com/how-to-write-a-good-white-paper-for-ico-tips-and-examples-42d71c3fa4fe)                                          |          |            |
+| [80 In-Demand Copywriting Projects](https://www.awai.com/downloads/in-demand-projects/)                                     |          |            |
 | [TBD](https://www.)                                                                                                         |          |            |
 | **Practice**                                                                                                                | **Type** | **Status** |
 | Improve the description of an Airbnb location                                                                               | Portfolio |            |
