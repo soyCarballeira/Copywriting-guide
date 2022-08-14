@@ -60,6 +60,7 @@ WHy is it important. Different methods.
 | :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [Everything You Need to Know About Sales Funnels](https://www.youtube.com/watch?v=nzfO3tWbtoI)                  | Video    |   ✔️       |
 | [3 Fitness Marketing Funnels for Your Personal Trainer Website](https://www.mypersonaltrainerwebsite.com/blog/3-fitness-marketing-funnels-for-your-personal-trainer-website)                                                                                                          | Blog     |   ✔️       |
+| [Mentoship call- Strategy](https://www.youtube.com/watch?v=k-j_Yaj84fE)                                         | Video    |            |
 | **Practice**                                                                                                    | **Type** | **Status** |
 
 
