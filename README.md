@@ -60,8 +60,8 @@ WHy is it important. Different methods.
 | :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [Everything You Need to Know About Sales Funnels](https://www.youtube.com/watch?v=nzfO3tWbtoI)                  | Video    |   ✔️       |
 | [3 Fitness Marketing Funnels for Your Personal Trainer Website](https://www.mypersonaltrainerwebsite.com/blog/3-fitness-marketing-funnels-for-your-personal-trainer-website)                                                                                                          | Blog     |   ✔️       |
-| Mentoship call- Strategy (from min20)(PAID)                            | Video    |            |
-| [The Funnel Hackers Cookbook](https://drive.google.com/file/d/1DbDblIBppN1ziwTHNBlJmPuwbKqv1jt4/view)           | Ebook    |            |
+| Mentoship call- Strategy (from min20)(PAID)                                                                     | Video    |   ✔️       |
+| [The Funnel Hackers Cookbook](https://drive.google.com/file/d/1DbDblIBppN1ziwTHNBlJmPuwbKqv1jt4/view)           | Ebook    |   ✔️       |
 | [Lead Funnels](https://drive.google.com/file/d/1qV5rlz1rcmKl-YUOdFERB5keUI41xfpF/view)                          | Ebook    |            |
 | **Practice**                                                                                                    | **Type** | **Status** |
 | Create a Lead Funnel for my own "fake" project                                                                  | Portfolio|            |
