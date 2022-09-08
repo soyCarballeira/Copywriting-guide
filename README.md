@@ -64,8 +64,8 @@ WHy is it important. Different methods.
 | [The Funnel Hackers Cookbook](https://drive.google.com/file/d/1DbDblIBppN1ziwTHNBlJmPuwbKqv1jt4/view)           | Ebook    |   ✔️       |
 | [Lead Funnels](https://drive.google.com/file/d/1qV5rlz1rcmKl-YUOdFERB5keUI41xfpF/view)                          | Ebook    |            |
 | **Practice**                                                                                                    | **Type** | **Status** |
-| Create a Lead Funnel for my own "fake" project                                                                  | Portfolio|            |
-| Create a spec pieces for a friend's business                                                                    | Portfolio|            |
+| Create a Lead Funnel for my own "fake" project                                                                  | Portfolio|   ✔️       |
+| Create a spec pieces for a friend's business                                                                    | Portfolio|   ✔️       |
 
 
 ## Formulas
