@@ -75,9 +75,9 @@ Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, T
 ## Writing Web Pages
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
-| [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post|            |
-| [How to Create the Ultimate Lead Capture Page: 11 Tips for 2020](https://unbounce.com/landing-pages/how-to-create-the-ultimate-lead-capture-page/)| Blog Post         |                         |
-| [Website Copy Live Template Pack](https://jacobmcmillen.com/website-copywriting-live-template-pack/) | Blog Post|            |
+| [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post| ✔️           |
+| [How to Create the Ultimate Lead Capture Page: 11 Tips for 2020](https://unbounce.com/landing-pages/how-to-create-the-ultimate-lead-capture-page/)| Blog Post         | ✔️                        |
+| [Website Copy Live Template Pack](https://jacobmcmillen.com/website-copywriting-live-template-pack/)                           | Blog Post|  ✔️          |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 
