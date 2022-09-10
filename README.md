@@ -71,6 +71,12 @@ WHy is it important. Different methods.
 ## Formulas
 Learn the rules and understand why they work. Then break them.
 Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, THe 4C's
+| **Resource**                                                                                                    | **Type** | **Status** |
+| :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
+| [Copywriting Formulas  ](https://buffer.com/resources/copywriting-formulas/)                                    | Blog Post|          |
+
+
+
 
 ## Writing Web Pages
 | **Resource**                                                                                                                   | **Type** | **Status** |
@@ -103,6 +109,12 @@ Strategy and long term thinking.
 
 
 ## Writing for Social Media
+| **Resource**                                                                                                       | **Type**  | **Status** |
+| :----------------------------------------------------------------------------------------------------------------- | :-------: | :--------: |
+| [Twitter Headlines](https://copyblogger.com/twitter-headlines/)                                                    | Blog Post |            |
+|                              | Website   |            |
+
+
 
 ## Writing for a Launch
 Types of launch and structures
