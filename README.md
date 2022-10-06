@@ -37,7 +37,7 @@ What is copywriting. WHat's it like? What tools do you need?
 | Set up a database for resources                                                                                                 | Task      |  ✔️        |
 | Set up a database for contacts                                                                                                  | Task      |  ✔️        |
 | Set up a Swipe Folder                                                                                                           | Task      |  ✔️        |
-| Define a SMART Goal                                                                                                             | Task      |            |
+| Define a SMART Goal                                                                                                             | Task      |  ✔️        |
 
 ## Psychology Principles and Sales
 How to persuade. How and why copywriting works
@@ -62,7 +62,7 @@ WHy is it important. Different methods.
 | [3 Fitness Marketing Funnels for Your Personal Trainer Website](https://www.mypersonaltrainerwebsite.com/blog/3-fitness-marketing-funnels-for-your-personal-trainer-website)                                                                                                          | Blog     |   ✔️       |
 | Mentoship call- Strategy (from min20)(PAID)                                                                     | Video    |   ✔️       |
 | [The Funnel Hackers Cookbook](https://drive.google.com/file/d/1DbDblIBppN1ziwTHNBlJmPuwbKqv1jt4/view)           | Ebook    |   ✔️       |
-| [Lead Funnels](https://drive.google.com/file/d/1qV5rlz1rcmKl-YUOdFERB5keUI41xfpF/view)                          | Ebook    |            |
+| [Lead Funnels](https://drive.google.com/file/d/1qV5rlz1rcmKl-YUOdFERB5keUI41xfpF/view)                          | Ebook    |   ✔️       |
 | **Practice**                                                                                                    | **Type** | **Status** |
 | Create a Lead Funnel for my own "fake" project                                                                  | Portfolio|   ✔️       |
 | Create a spec pieces for a friend's business                                                                    | Portfolio|   ✔️       |
@@ -73,7 +73,7 @@ Learn the rules and understand why they work. Then break them.
 Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, THe 4C's
 | **Resource**                                                                                                    | **Type** | **Status** |
 | :-------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
-| [Copywriting Formulas  ](https://buffer.com/resources/copywriting-formulas/)                                    | Blog Post|          |
+| [Copywriting Formulas  ](https://buffer.com/resources/copywriting-formulas/)                                    | Blog Post|   ✔️       |
 
 
 
@@ -81,12 +81,12 @@ Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, T
 ## Writing Web Pages
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
-| [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post| ✔️           |
+| [25 Best About Us & About Me Page Examples + 5 Templates](https://blog.hubspot.com/marketing/remarkable-about-us-page-examples)| Blog Post| ✔️         |
 | [How to Create the Ultimate Lead Capture Page: 11 Tips for 2020](https://unbounce.com/landing-pages/how-to-create-the-ultimate-lead-capture-page/)| Blog Post         | ✔️                        |
-| [Website Copy Live Template Pack](https://jacobmcmillen.com/website-copywriting-live-template-pack/)                           | Blog Post|  ✔️          |
-| [The Best Web Copywriter We Know Shares Her Secrets ](https://www.youtube.com/watch?v=MTem1Y4UV10)                             | Vídeo    |          |
+| [Website Copy Live Template Pack](https://jacobmcmillen.com/website-copywriting-live-template-pack/)                           | Blog Post|  ✔️        |
+| [The Best Web Copywriter We Know Shares Her Secrets ](https://www.youtube.com/watch?v=MTem1Y4UV10)                             | Vídeo    |  ✔️        |
 | **Practice**                                                                                                                   | **Type** | **Status** |
-| Create 3 spec pieces                                                                                                           | Portfolio|            |
+| Create 3 spec pieces                                                                                                           | Portfolio|  2/3       |
 
 
 
