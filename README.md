@@ -14,15 +14,15 @@ Note that, at this point, I'm doing this for myself, so I'll include material bo
 - [Formulas](#Formulas)
 - [Writing Web Pages](#Writing-Web-Pages)
 - [Content Writing and SEO](#Content-Writing-and-SEO)
-- Email Marketing
-- Writing for Social Media
-- Writing for a Launch
-- Writing Ads
-- Writing Leaflets and Brochures
-- UX Writing and Microcopy
-- Setting Up and Finding Clients
-- Clients Management
-- Miscelanea
+- [Email Marketing](#Email-Marketing)
+- [Writing for Social Media](#Writing-for-Social-Media)
+- [Writing for a Launch](#Writing-for-a-Launch)
+- [Writing Ads](#Writing-Ads)
+- [Writing Leaflets and Brochures](#Writing-Leaflets-and-Brochures)
+- [UX Writing and Microcopy](#UX-Writing-and-Microcopy)
+- [Setting Up and Finding Clients](#Setting-Up-and-Finding-Clients)
+- [Clients Management](#Clients-Management)
+- [Miscelanea](#Miscelanea)
 
 ## Introduction and General Advice
 What is copywriting. WHat's it like? What tools do you need?
