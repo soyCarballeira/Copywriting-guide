@@ -104,6 +104,7 @@ Strategy and long term thinking.
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
 | [How to Use Autoresponders to Accelerate Your Growth](https://neilpatel.com/blog/autoresponders-to-accelerate-growth/)         | Blog Post|            |
+| [What is Email Marketing + Best Practices and SPI How-to Guide](https://www.smartpassiveincome.com/guide/email-marketing-strategies/)         | Blog Post|            |
 | [HOW TO WRITE DIRECT MAIL COPY THAT SELLS](https://www.themailshark.com/resources/guides/how-to-write-direct-mail-copy/)       | Blog Post|            |
 | [The Complete Guide To EMAIL COPYWRITING](https://jacobmcmillen.com/email-copywriting/)                                        | Blog Post|            |
 | [Email Copywriting: Guide With Examples, Templates & Tips ](https://respona.com/blog/email-copywriting/)                       | Blog Post|            |
