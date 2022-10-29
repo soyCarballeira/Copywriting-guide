@@ -134,6 +134,8 @@ Types of launch and structures
 | [Facebook Ads Templates](https://adespresso.com/wp-content/uploads/2019/07/Facebook_Ad_Templates.pdf)                          | Blueprint|            |
 | [34 Killer PPC Ad Templates with Crazy High CTRs](https://www.wordstream.com/blog/ws/2015/08/03/ppc-ad-templates)              | Blog Post|            |
 | [I tried writing Facebook ads. Even I didn’t expect what I found.](https://copyhackers.com/2016/06/writing-facebook-ads/)      | Blog Post|            |
+| [The Complete, Always-Updated Guide to Facebook Advertising](https://buffer.com/library/facebook-ads-guide/)                   | Blog Post|            |
+| [Google AdWords Made Simple: A Step-by-Step Guide](https://neilpatel.com/what-is-google-adwords/)                              | Blog Post|            |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 
