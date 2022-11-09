@@ -86,7 +86,7 @@ Ej: PPPP, DIC, PASOP, PAS, The Story Mill, PPP, AIDA, APPROA, 16-words, OCPB*, T
 | [Website Copy Live Template Pack](https://jacobmcmillen.com/website-copywriting-live-template-pack/)                           | Blog Post|  ✔️        |
 | [The Best Web Copywriter We Know Shares Her Secrets ](https://www.youtube.com/watch?v=MTem1Y4UV10)                             | Vídeo    |  ✔️        |
 | **Practice**                                                                                                                   | **Type** | **Status** |
-| Create 3 spec pieces                                                                                                           | Portfolio|  2/3       |
+| Create 3 spec pieces                                                                                                           | Portfolio|  ✔️        |
 
 
 
@@ -103,13 +103,13 @@ Strategy and long term thinking.
 ## Email Marketing
 | **Resource**                                                                                                                   | **Type** | **Status** |
 | :----------------------------------------------------------------------------------------------------------------------------- | :-------:| :------:   |
-| [How to Use Autoresponders to Accelerate Your Growth](https://neilpatel.com/blog/autoresponders-to-accelerate-growth/)         | Blog Post|            |
+| [How to Use Autoresponders to Accelerate Your Growth](https://neilpatel.com/blog/autoresponders-to-accelerate-growth/)         | Blog Post| ✔️         |
 | [What is Email Marketing + Best Practices and SPI How-to Guide](https://www.smartpassiveincome.com/guide/email-marketing-strategies/)         | Blog Post|            |
 | [HOW TO WRITE DIRECT MAIL COPY THAT SELLS](https://www.themailshark.com/resources/guides/how-to-write-direct-mail-copy/)       | Blog Post|            |
-| [The Complete Guide To EMAIL COPYWRITING](https://jacobmcmillen.com/email-copywriting/)                                        | Blog Post|            |
+| [The Complete Guide To EMAIL COPYWRITING](https://jacobmcmillen.com/email-copywriting/)                                        | Blog Post| ✔️         |
 | [Email Copywriting: Guide With Examples, Templates & Tips ](https://respona.com/blog/email-copywriting/)                       | Blog Post|            |
 | [Email Marketing Best Practices to Grow Your Business](https://www.youtube.com/watch?v=ysXoM6Y_Ax8)                            | Video    |            |
-| [Use DIC to Write the Most Engaging Emails (Copy That! Episode 7)  ](https://www.youtube.com/watch?v=LPfCplokDAs)              | Video    |            |
+| [Use DIC to Write the Most Engaging Emails (Copy That! Episode 7)  ](https://www.youtube.com/watch?v=LPfCplokDAs)              | Video    | ✔️         |
 | **Practice**                                                                                                                   | **Type** | **Status** |
 | Create 3 spec pieces                                                                                                           | Portfolio|            |
 | **BONUS (Paid)**                                                                                                               | **Type** | **Status** |
